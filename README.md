@@ -4,7 +4,6 @@
 🌱 I’m currently learning Python, JavaScript, and cloud technologies.
 💞️ I’m looking to collaborate on open-source projects and data-driven applications.
 📫 How to reach me: gavinovargas10@gmail.com
-😄 Pronouns: He/Him
 ⚡ Fun fact: I love solving coding challenges and exploring new tech trends!
 
 <!---
